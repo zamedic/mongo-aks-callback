@@ -1,4 +1,4 @@
-module github.com/zamedic/mongo-aks-oidc
+module github.com/zamedic/mongo-aks-callback
 
 go 1.25
 
