@@ -1,4 +1,4 @@
-module guthub.com/zamedic/mongo-aks-oidc
+module github.com/zamedic/mongo-aks-oidc
 
 go 1.25
 
